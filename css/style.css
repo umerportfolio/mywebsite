@@ -370,7 +370,8 @@ button:focus {
         font-size: 40px;
         margin-bottom: 20px;
         position: relative; }
-        .home_banner_area .banner_inner .banner_content h3:after {
+        
+		/*.home_banner_area .banner_inner .banner_content h3:after {
           content: '';
           width: 410px;
           height: 2px;
@@ -378,6 +379,8 @@ button:focus {
           top: 50%;
           left: 23%;
           background: #000000; }
+		  
+		  */
           @media (max-width: 575px) {
             .home_banner_area .banner_inner .banner_content h3:after {
               display: none; } }
